@@ -10,7 +10,7 @@ export default function Home() {
         {/* Header */}
         <div className="text-center space-y-4">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-cyan-400">
-            CLOAN BOOST
+            AMAN PRAKASH
           </h1>
           <p className="text-slate-400 text-lg md:text-xl max-w-md mx-auto">Premium Discord services and  Exchanges & Middlemen  Service </p>
         </div>
@@ -18,14 +18,14 @@ export default function Home() {
         {/* Links Section */}
         <div className="grid gap-4 md:grid-cols-2">
           <LinkCard
-            title="Official Website"
+            title="Official store Website"
             description="Visit our official website for purchase"
             href="https://cloanboost.com/"
             icon={<ExternalLink className="h-5 w-5" />}
           />
 
           <LinkCard
-            title="Discord Server"
+            title="Cloan Boosts"
             description="Join our main shop server"
             href="https://discord.gg/cloanb"
             icon={<Discord className="h-5 w-5" />}
@@ -60,7 +60,7 @@ export default function Home() {
               className="flex items-center gap-2"
             >
               <MessageCircle className="h-5 w-5" />
-              Contact on Telegram
+              Contact 
             </Link>
           </Button>
         </div>
