@@ -19,21 +19,21 @@ export default function Home() {
         <div className="grid gap-4 md:grid-cols-2">
           <LinkCard
             title="Official Website"
-            description="Visit our official website for more information"
+            description="Visit our official website for purchase"
             href="https://cloanboost.com/"
             icon={<ExternalLink className="h-5 w-5" />}
           />
 
           <LinkCard
             title="Discord Server"
-            description="Join our main community server"
+            description="Join our main shop server"
             href="https://discord.gg/cloanb"
             icon={<Discord className="h-5 w-5" />}
           />
 
           <LinkCard
             title="Gold MM"
-            description="Premium matchmaking services"
+            description="Middleman and Exchnage services"
             href="https://goldmm.one/"
             icon={<ExternalLink className="h-5 w-5" />}
           />
