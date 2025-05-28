@@ -12,7 +12,7 @@ export default function Home() {
           <h1 className="text-4xl md:text-6xl font-bold tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-cyan-400">
             Aman Prakash
           </h1>
-          <p className="text-slate-400 text-lg md:text-xl max-w-md mx-auto">Premium Discord services and  Exchanges & Middlemen  Service </p>
+          <p className="text-slate-400 text-lg md:text-xl max-w-md mx-auto">Premium Discord Services along with Exchanges & Middlemen </p>
         </div>
 
         {/* Links Section */}
